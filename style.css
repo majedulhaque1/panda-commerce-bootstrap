@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banner-background-color{
+    background-color: #fceae8;
+}
+.categories-color-1{
+    background-color: #ffa500;
+}
+.categories-color-2{
+    background-color: #da70d6;
+}
+.categories-color-3{
+    background-color: #0000ff;
+}
+.btn-custom-color{
+    background-image: linear-gradient(to bottom, #ff4c93, #ff2178);
+}
